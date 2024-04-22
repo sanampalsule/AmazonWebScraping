@@ -1,11 +1,11 @@
 
 
-##Aim of the Project:
+## Aim of the Project:
 The main objective of this project is to develop a data extraction pipeline that scrapes product price data from Amazon pages and utilizes the collected data to train a machine learning model for predicting future prices. The project aims to demonstrate the application of web scraping techniques, data manipulation, and time-series forecasting using the XGBoost algorithm.
 
 
 
-##Technical Components:
+## Technical Components:
 - Python programming language
 - BeautifulSoup library for web scraping
 - Requests library for sending HTTP requests
